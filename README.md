@@ -1,15 +1,15 @@
 # MyNewsApp
 程设小学期（Java + Android）大作业，public version
 
-该public版本会定期updates我的大作业进度，在全部完成后会updates下载apk，大作业提交截止后悔updates源代码
+该public版本会定期updates我的大作业进度，在全部完成后会updates下载apk，大作业提交截止后会updates源代码
 
 -----------
 
 
 
-`[Log 2022/8/30 23:36]`：实现上拉刷新。
+`[Log 2022/8/30 23:36]`：新闻数据及呈现基本实现，布局基本实现，实现上拉刷新
 
-`[Log 2022/8/31 11:04]`：实现下拉加载。
+`[Log 2022/8/31 11:04]`：实现下拉加载
 
 `[Log 2022/8/31 20:20]`：实现`DetailNewsActivity`
 
